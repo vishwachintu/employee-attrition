@@ -74,6 +74,21 @@ scikit-learn==0.23.2
 
 xlrd >= 1.0.0
 
+## Usage
+- Clone my repository.
+- Open CMD in working directory.
+- Run following command.
+  ```
+  pip install -r requirements.txt
+  ```
+- `App.py` is the main Python file of Streamlit Web-Application. 
+- To run app, write following command in CMD. or use any IDE.
+  ```
+  streamlit run app.py
+  ```
+- For more explanation of this project see the tutorial on Machine Learning Hub YouTube channel.
+
+
 
 b) Create a Streamlit Account: 
 
@@ -89,5 +104,6 @@ b) Create a Streamlit Account:
 		
 		-  Then Click deploy.
 		
-Hurray, Your App is Up and Running.
+Hurray, Your App is Up and Running. 
+## Just follow☝️ me and Star⭐ my repository 
 
