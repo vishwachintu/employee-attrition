@@ -87,7 +87,7 @@ b) Create a Streamlit Account:
 		
 		- Enter the branch- Main
 		
-		- Then type python code in the repository, eg. Streamlit_app.py
+		- Then type python code in the repository, eg. app.py
 		
 		-  Then Click deploy.
 		
