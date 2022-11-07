@@ -89,8 +89,7 @@ xlrd >= 1.0.0
 - For more explanation of this project see the tutorial on Machine Learning Hub YouTube channel.
 
 
-
-b) Create a Streamlit Account: 
+Create a Streamlit Account: 
 
 	i) Request for an invite for Streamlit sharing or share.streamlit.io, the account provide should be the same email address with the GitHub account. After you have been invited by Streamlit share, login with the GitHub Account.
 	
