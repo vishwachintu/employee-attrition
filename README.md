@@ -4,8 +4,6 @@ EMPLOYEE ATTRITION WEB APPLICATION USING PYTHON AND STREAMLIT SHARING.
 Goal:
  To Predict The Future Employee Who Would Tend To Leave The Company.
 
-Data: https://www.dropbox.com/s/we2aj8k6ra7ca5o/Hash-Analytic-Python-Analytics-Problem-case-study-1.xlsx?dl=0
-
 Employee attrition is defined as the natural process by which employees leave the workforce – for example, through resignation for personal reasons or retirement – and are not immediately replaced.
 
 Employee attrition occurs when the size of your workforce diminishes over time due to unavoidable factors such as employee resignation for personal or professional reasons.
