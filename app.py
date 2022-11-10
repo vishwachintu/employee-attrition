@@ -68,7 +68,7 @@ with st.sidebar.form(
         st.markdown("Your Feedback:")
         st.markdown(text)
 
-with st.sidebar.expander("About the DrLoE App", expanded=True):
+with st.sidebar.expander("Contact Us", expanded=True):
     st.write(
         """
         info@drpinnacle.com
