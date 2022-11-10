@@ -15,7 +15,6 @@ from io import StringIO
 
 # import libraries from streamlit
 import streamlit as st
-from streamlit_pandas_profiling import st_profile_report
 
 # machinlearning libraries
 from sklearn.model_selection import train_test_split
