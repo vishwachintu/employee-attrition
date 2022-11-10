@@ -48,21 +48,6 @@ if st.button() for creating web button where user can click in the web page.
 The requirement.txt file should contain a list all the dependencies (Packages) required to run the python code successfully.
 For instance, for this project our requirement.txt contains the following
 
-numpy==1.18.5
-
-pandas==1.1.3
-
-matplotlib==3.3.2
-
-seaborn==0.10.1
-
-streamlit==0.69.2
-
-Pillow==7.2.0
-
-scikit-learn==0.23.2
-
-xlrd >= 1.0.0
 
 ## Usage
 - Clone my repository.
