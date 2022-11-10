@@ -1,5 +1,5 @@
 # life of an employee at an organization.
-# Author: Vishwa - Drpinnacle
+# Author: Vishwa, Raghu - Drpinnacle
 
 # import libraries
 import numpy as np
@@ -41,7 +41,7 @@ st.sidebar.header("DrLoE APP")
 with st.sidebar.expander("About the DrLoE App", expanded=True):
     st.write(
         """
-        This interactive people management App was built by Vishwa(DrPinnacle) using Streamlit.
+        This interactive people management App was built by Vishwa, Raghu(DrPinnacle) using Streamlit.
      """
     )
 
@@ -71,7 +71,7 @@ with st.sidebar.form(
 with st.sidebar.expander("About the DrLoE App", expanded=True):
     st.write(
         """
-        This interactive people management App was built by Vishwa(DrPinnacle) using Streamlit.
+        info@drpinnacle.com
      """
     )
 
