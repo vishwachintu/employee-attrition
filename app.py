@@ -214,7 +214,7 @@ if selected_choice is not None:
         st.write("Satisfaction level, Last Evaluation, Number of project, The average montly hours, Time spend in company, Work accident, Promotion last 5 years, Department, Salary Level")
         st.write("Make sure data is in the correct shape")
         image = Image.open(r'sample.png')
-        st.image(image,  caption='Make sure you use the same column names as in the template')
+        st.image(image,  caption='Make sure you use the same column names as in the above image')
         st.write("Please upload your dataset in the form csv")
         uploaded_file = st.file_uploader("Choose a file")
         if uploaded_file is not None:
