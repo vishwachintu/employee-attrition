@@ -210,7 +210,8 @@ if selected_choice is not None:
 
     # For Batch Predictions
     elif selected_choice == "Batch Predictions":
-        st.markdown("please make sure you have collected **_right_ _data_ _points_** to run the batch predicctions")
+        st.markdown("please make sure you have collected **_right_ _data_ _points_** to run the batch predictions")
+        st.write("Satisfaction level, Last Evaluation, Number of project, The average montly hours, Time spend in company, Work accident, Promotion last 5 years, Department, Salary Level")
         st.write("Please upload your dataset in the form csv")
         uploaded_file = st.file_uploader("Choose a file")
         if uploaded_file is not None:
