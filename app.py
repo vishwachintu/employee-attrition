@@ -24,7 +24,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.datasets import make_classification
 
 # set page configuration and this can be initiated only once
-st.set_page_config(layout="wide", page_title="DrLoE App")
+st.set_page_config(layout="wide", page_title="DrLoE App", page_icon='random')
 
 # Tittle, Header, sub header and any other.....
 st.title("DrLoE(Life of an Employee) APP")
@@ -212,6 +212,7 @@ if selected_choice is not None:
     elif selected_choice == "Batch Predictions":
         st.markdown("please make sure you have collected **_right_ _data_ _points_** to run the batch predictions")
         st.write("Satisfaction level, Last Evaluation, Number of project, The average montly hours, Time spend in company, Work accident, Promotion last 5 years, Department, Salary Level")
+        st.write("Make sure data is in the correct shape")
         st.write("Please upload your dataset in the form csv")
         uploaded_file = st.file_uploader("Choose a file")
         if uploaded_file is not None:
